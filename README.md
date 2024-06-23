@@ -39,10 +39,10 @@ Make sure you have the following installed on your machine:
 
     To stop the application and shut down the containers, press Ctrl + C in the terminal where docker-compose is running. Alternatively, you can run the following command in a separate terminal:
 
-   ```bash
-   docker-compose down
-
-   ```
+      ```bash
+      docker-compose down
+   
+      ```
 
 ### Without using Docker
 
