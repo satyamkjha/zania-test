@@ -39,7 +39,9 @@ Open your web browser and navigate to the IP address URL provided by Docker. Typ
     To stop the application and shut down the containers, press Ctrl + C in the terminal where docker-compose is running. Alternatively, you can run the following command in a separate terminal:
 
         ```bash
-        docker-compose down```
+        docker-compose down
+    
+       ```
 
 ### Without using Docker
 
