@@ -1,4 +1,4 @@
-# React Application with Docker Compose
+# Instructions to run this project
 
 This repository contains a React application that can be run using Docker Compose. The application is accessible via an IP address URL provided by Docker.
 
