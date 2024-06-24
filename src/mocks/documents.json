@@ -1,0 +1,32 @@
+[
+    {
+        "type": "bank-draft",
+        "title": "Bank Draft",
+        "url": "assets/cat1.gif",
+        "position": 0
+    },
+    {
+        "type": "bill-of-lading",
+        "title": "Bill of Lading",
+        "url": "assets/cat2.gif",
+        "position": 1
+    },
+    {
+        "type": "invoice",
+        "title": "Invoice",
+        "url": "assets/cat3.gif",
+        "position": 2
+    },
+    {
+        "type": "bank-draft-2",
+        "title": "Bank Draft 2",
+        "url": "assets/cat4.gif",
+        "position": 3
+    },
+    {
+        "type": "bill-of-lading-2",
+        "title": "Bill of Lading 2",
+        "url": "assets/cat5.gif",
+        "position": 4
+    }
+]
