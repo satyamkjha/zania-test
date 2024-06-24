@@ -1,4 +1,4 @@
-# React Application with Docker Compose
+# Instructions to run this project
 
 This repository contains a React application that can be run using Docker Compose. The application is accessible via an IP address URL provided by Docker.
 
@@ -32,14 +32,17 @@ Make sure you have the following installed on your machine:
 
 3. Access the application:
 
-Open your web browser and navigate to the IP address URL provided by Docker. Typically, it should be something like http://localhost or http://192.168.99.100, depending on your Docker setup. Do not use the http://localhost URL. For some reason i was not able to setup msw for this URL
+   Open your web browser and navigate to the IP address URL provided by Docker. Typically, it should be something like http://localhost or http://192.168.99.100, depending on your Docker setup. Do not use the    
+   http://localhost URL. For some reason i was not able to setup msw for this URL
 
-3.  Stop the application:
+4.  Stop the application:
 
     To stop the application and shut down the containers, press Ctrl + C in the terminal where docker-compose is running. Alternatively, you can run the following command in a separate terminal:
 
-        ```bash
-        docker-compose down
+      ```bash
+      docker-compose down
+   
+      ```
 
 ### Without using Docker
 
